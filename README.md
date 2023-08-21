@@ -68,7 +68,9 @@ Embark on your face-swapping adventure with these simple steps:
 6. **Quit the Application**: Press the 'q' key to gracefully exit the application.
 
 ## Output
+
 https://github.com/piyush8358/Realtime-Face-Swap/assets/96904569/2e8f4f59-bb1e-470e-92dd-b8a1b760c813
+
 
 
 ## Advantages
